@@ -5,7 +5,13 @@ MsConfig Version:1.02.1
 Firmware Version 1.00.1
 ---
 
+## 見方
+コードブロックをコピーして、日本語固定幅フォントが指定できるテキストエディタに貼り付けるとキレイに見えます。
+(メモ帳とか)
+
 ## XE1AJ-USB CYBERSTICK
+
+XE1AJ-USB CYBERSTICKがメガドライブ実機で使えてしまいます。AfterBurnerIIを遊ぼう！
 ```
 
                                * Moonshot Layout Confugurations *                               
@@ -41,6 +47,7 @@ Firmware Version 1.00.1
 ```
 
 ## Astro City Mini Arcade Controller
+すてきな品質のアケコンがメガドライブ実機で使えてしまいます。ボタンレイアウトはいい感じに指定しよう！
 ```
 
 
